@@ -1,4 +1,4 @@
-# Aerospace Engineering Analysis Tool  
+# Aerospace Analysis Tool  
 
 ## Overview  
 This **Aerospace Engineering Analysis Tool** is a **Streamlit** web application designed to help engineers analyze **aerodynamic forces** and **propulsion performance** of an aircraft. The tool allows users to input various flight parameters, visualize aerodynamic properties, and calculate lift, drag, thrust, and fuel efficiency.  
